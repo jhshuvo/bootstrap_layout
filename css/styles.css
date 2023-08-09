@@ -1,0 +1,19 @@
+.header,.hero,.body,.ber,footer{
+    background-color:gold;
+    margin: 12px;
+}
+
+.box{
+    margin: 10px 0;
+    min-height: 80px;
+    font-size: 30px;
+    text-align: center;
+    background-color: blue;
+    color: black;
+}
+.lime{
+    background-color:lime;
+}
+.red{
+    background-color: red;
+}
